@@ -242,7 +242,7 @@
     left: 0;
     width: 100%;
     height: 100%;
-    background-image: url('images/buting.jpg');
+    background-image: url('images/buting.svg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -427,7 +427,7 @@
     height: 400px;
     width: 700px;
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/pic2.svg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/pic2.svg');
     background-size: cover;
     position: relative;
     color: #fff;
@@ -436,7 +436,7 @@
 
 .services__card:nth-child(2) {
     border-radius: 4px;
-    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('images/buting.svg');
+    background-image: linear-gradient(to bottom, rgba(0,0,0,0) 0%, rgba(17,17,17,0.6) 100%), url('/images/buting.svg');
     background-size: cover;
     position: relative;
     color: #fff;
